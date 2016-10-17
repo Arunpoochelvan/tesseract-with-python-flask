@@ -2,6 +2,8 @@
 
 This app is written in Python and using Flask web framework.
 
+Based on Maggioni's [secret-harbor app] (https://github.com/matteotiziano/secret-harbor).
+
 # Set up
 
 Before deploying app to Heroku, run:
@@ -25,3 +27,8 @@ This app is hosted on: https://tesseract-with-flask-python.herokuapp.com
   
 3. Read ```output_file``` and hold value with variable.
 4. Delete ```output_file``` and return value.
+
+# License:
+
+MIT.
+
